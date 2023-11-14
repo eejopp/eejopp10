@@ -1,0 +1,7 @@
+C:\Users\arina\source\repos\Prakt07\Explorer2\bin\Debug\Explorer2.exe.config
+C:\Users\arina\source\repos\Prakt07\Explorer2\bin\Debug\Explorer2.exe
+C:\Users\arina\source\repos\Prakt07\Explorer2\bin\Debug\Explorer2.pdb
+C:\Users\arina\source\repos\Prakt07\Explorer2\obj\Debug\Explorer2.csproj.AssemblyReference.cache
+C:\Users\arina\source\repos\Prakt07\Explorer2\obj\Debug\Explorer2.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\Prakt07\Explorer2\obj\Debug\Explorer2.exe
+C:\Users\arina\source\repos\Prakt07\Explorer2\obj\Debug\Explorer2.pdb

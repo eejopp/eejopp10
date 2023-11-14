@@ -1,0 +1,21 @@
+C:\Users\arina\source\repos\Prakt07\Explorer\bin\Debug\Explorer.exe.config
+C:\Users\arina\source\repos\Prakt07\Explorer\bin\Debug\Explorer.exe
+C:\Users\arina\source\repos\Prakt07\Explorer\bin\Debug\Explorer.pdb
+C:\Users\arina\source\repos\Prakt07\Explorer\obj\Debug\Explorer.csproj.AssemblyReference.cache
+C:\Users\arina\source\repos\Prakt07\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\Prakt07\Explorer\obj\Debug\Explorer.exe
+C:\Users\arina\source\repos\Prakt07\Explorer\obj\Debug\Explorer.pdb
+Z:\Репетиторство\Арина\7\Prakt07\Explorer\bin\Debug\Explorer.exe.config
+Z:\Репетиторство\Арина\7\Prakt07\Explorer\bin\Debug\Explorer.exe
+Z:\Репетиторство\Арина\7\Prakt07\Explorer\bin\Debug\Explorer.pdb
+Z:\Репетиторство\Арина\7\Prakt07\Explorer\obj\Debug\Explorer.csproj.AssemblyReference.cache
+Z:\Репетиторство\Арина\7\Prakt07\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+Z:\Репетиторство\Арина\7\Prakt07\Explorer\obj\Debug\Explorer.exe
+Z:\Репетиторство\Арина\7\Prakt07\Explorer\obj\Debug\Explorer.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Prakt07\Prakt07\Explorer\bin\Debug\Explorer.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Prakt07\Prakt07\Explorer\bin\Debug\Explorer.exe
+C:\Users\arina\OneDrive\Рабочий стол\Prakt07\Prakt07\Explorer\bin\Debug\Explorer.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Prakt07\Prakt07\Explorer\obj\Debug\Explorer.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Prakt07\Prakt07\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Prakt07\Prakt07\Explorer\obj\Debug\Explorer.exe
+C:\Users\arina\OneDrive\Рабочий стол\Prakt07\Prakt07\Explorer\obj\Debug\Explorer.pdb
